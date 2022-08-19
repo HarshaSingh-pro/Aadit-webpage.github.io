@@ -1,0 +1,13 @@
+.grid{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+
+}
+.item{
+display: flex;
+
+}
+h3{
+    color:blue
+}
